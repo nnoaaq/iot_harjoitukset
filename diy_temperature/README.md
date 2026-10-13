@@ -1,6 +1,6 @@
 # DIY - anturin koodi
 
-- 0,1mm paksuus, 140m pituus - kuparilanka toimii DIY-sensorina lämpötilalle
+- 0,1mm paksu, 140m pitkä - kuparilanka toimii DIY-sensorina lämpötilalle
 - lasketaan kuparilangalle vastus tunnetun "etu"_vastuksen (220 Ω) avulla
 - lasketaan vastuksesta lämpötila hyödyntäen kuparin resistanssin lämpötilakerrointa 0.00393 sekä kalibrointipistettä..
 
